@@ -38,6 +38,3 @@ Step 2. Deactivate all plugins and reactivate Block Patterns Collection.
 
 1-Plugin Settings. screenshot-1.png
 2-GraphQL Fields. screenshot-2.png
-3-Category Image Upload. screenshot-3.png
-4-Custom Header Menu. screenshot-4.png
-5-Custom Footer Menu. screenshot-5.png
